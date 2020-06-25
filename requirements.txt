@@ -1,7 +1,7 @@
 Cython==0.29.6
 dm-sonnet==1.29
 h5py==2.9.0
-Keras==2.2.4
+Keras==2.4.3
 Keras-Applications==1.0.7
 Keras-Preprocessing==1.0.9
 matplotlib==3.0.3
